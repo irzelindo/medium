@@ -1,0 +1,7 @@
+,ID,BRAND,SOLD,STORE,DATETIME,EMAIL
+0,1,FashionCo,120,MegaMall,2023-12-03 08:30:00,megamall@example.com
+1,2,StyleTrend,90,CityCenter,2023-12-03 09:15:00,citycenter@example.com
+2,3,ChicWear,150,FashionSquare,2023-12-03 10:00:00,fashionsquare@example.com
+3,4,TrendyStyles,80,PlazaMall,2023-12-03 11:45:00,plazamall@example.com
+4,5,UrbanChic,110,MetroMart,2023-12-03 12:30:00,metromart@example.com
+5,6,IZI,80,MetroMart,2023-12-03 12:30:00,irzelindo.salvador@gmail.com
